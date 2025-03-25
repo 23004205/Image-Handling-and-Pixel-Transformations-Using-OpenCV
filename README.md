@@ -30,8 +30,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** M MANI SRI LATHA
-- **Register Number:**  212223110025
+- **Name:** singamala venkata sai kumar reddy
+- **Register Number:**  212223230208
 
   ### Ex. No. 01
 
